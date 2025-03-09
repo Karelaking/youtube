@@ -85,8 +85,8 @@ You can customize the application by modifying the following files:
 ## 📷 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/400x225.png?text=Home+Screen" alt="Home Screen" width="400"/>
-  <img src="https://via.placeholder.com/400x225.png?text=Video+Player" alt="Video Player" width="400"/>
+  <img src="./assets/screenshots/home_screen.png" alt="Home Screen" width="400"/>
+  <img src="./assets/screenshots/video_play.png" alt="Video Player" width="400"/>
 </div>
 
 ## 🤝 Contributing
@@ -120,5 +120,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   Made with ❤️ by [Your Name]
 </div>
-
-
